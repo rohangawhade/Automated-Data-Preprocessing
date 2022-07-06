@@ -29,7 +29,6 @@ config = {
     "appId": os.getenv('REACT_APP_APP_ID'),
     "measurementId": os.getenv('REACT_APP_MEASUREMENT_ID'),
     "databaseURL": os.getenv("REACT_APP_DATABASE_URL"),
-    "serviceAccount": "firebase-adminsdk.json",
 }
 
 
