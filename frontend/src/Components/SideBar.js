@@ -10,8 +10,8 @@ import {
     MenuUnfoldOutlined,
     MenuFoldOutlined,
     UserOutlined,
-    VideoCameraOutlined,
-    UploadOutlined,
+    // VideoCameraOutlined,
+    // UploadOutlined,
     SettingOutlined
 } from '@ant-design/icons';
 

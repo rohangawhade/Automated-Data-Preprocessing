@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 import React, { useState } from "react";
 import {
   Button,
@@ -9,8 +10,8 @@ import {
   Input,
 } from "antd";
 import validator from "validator";
-import { UploadOutlined, DownOutlined, UserOutlined } from "@ant-design/icons";
-import { ExcelRenderer, OutTable } from "react-excel-renderer";
+import { DownOutlined, UserOutlined } from "@ant-design/icons";
+import { ExcelRenderer } from "react-excel-renderer";
 import Table from "./Table";
 
 const { Option } = Select;

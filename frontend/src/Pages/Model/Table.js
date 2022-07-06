@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+/* eslint-disable eqeqeq */
+import React from "react";
 import "./Table.css";
 function Table({
   dcolumns,
