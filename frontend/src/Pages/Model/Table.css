@@ -1,0 +1,26 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+table {
+  width: fit-content;
+}
+table,
+th,
+td {
+  border: 5px solid rgb(255, 255, 255);
+  border-collapse: collapse;
+}
+th,
+td {
+  background-color: #96d4d4;
+  padding: 10px;
+  width: max-content;
+}
+input {
+  border-width: 1px;
+  border-color: #08da08;
+  border-radius: 5px;
+  height: fit-content;
+  width: fit-content;
+} */
