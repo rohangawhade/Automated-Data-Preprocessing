@@ -2,3 +2,4 @@ uploads/
 .env
 firebase-adminsdk.json
 __pycache__
+venv
