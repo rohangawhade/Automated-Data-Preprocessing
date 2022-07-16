@@ -23,7 +23,7 @@
 ### Steps to run the application:
 > 1. Clone the repository : git clone https://github.com/rohangawhade/Automated-Data-Preprocessing.git
 > 2. Go to `backend` directory and install packages: `pip install -r .\requirements.txt` . Then update the location on `api.py` lines 17 and 18.
-> 3. Go to `frontend` directory and install modules: `yarn add`
+> 3. Go to `frontend` directory and install modules: `yarn`
 > 4. Create .env file in backend and frontend directory and add firebase api keys in it.
 > 5. Now run the following command `backend: python api.py` and `frontend: yarn start`
 
